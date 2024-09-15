@@ -1,6 +1,6 @@
 export const properties = {
     courseName: 'Level 7 Dog Search',
-    endpoint: 'https://cheetah.api.jointheleague.org?q=',
+    endpoint: 'https://dogapi.dog/api/v2/facts?limit=',
     description: 'The project inputs any number from the user and returns that number of random dog facts.',
     backendSwaggerUrl: 'https://dogapi.dog/api/v2/facts',
     createdBy: 'Ashay M.',
