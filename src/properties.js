@@ -1,10 +1,10 @@
 export const properties = {
-    courseName: 'Level 7 Animal Search',
+    courseName: 'Level 7 Dog Search',
     endpoint: 'https://cheetah.api.jointheleague.org?q=',
-    description: 'Here is a brief description of the project.  Try to keep it to two or three sentences',
-    backendSwaggerUrl: 'https://cheetah.api.jointheleague.org/',
-    createdBy: 'Student One, Student Two, Student Three',
-    repositoryUrl: 'https://github.com/LEAGUE-Level7/Cheetah-Search'
+    description: 'The project inputs any number from the user and returns that number of random dog facts.',
+    backendSwaggerUrl: 'https://dogapi.dog/api/v2/facts',
+    createdBy: 'Ashay M.',
+    repositoryUrl: 'https://github.com/WallyWest74422/Dog-Breed-Info'
 };
 
 /*
