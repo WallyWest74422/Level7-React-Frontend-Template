@@ -1,8 +1,8 @@
 export const properties = {
     courseName: 'Level 7 Dog Search',
-    endpoint: 'https://dogapi.dog/api/v2/facts?limit=',
+    endpoint: 'http://localhost:5000/searchLocResults?q=',
     description: 'The project inputs any number from the user and returns that number of random dog facts.',
-    backendSwaggerUrl: 'https://dogapi.dog/api/v2/facts',
+    backendSwaggerUrl: 'http://localhost:5000/searchLocResults',
     createdBy: 'Ashay M.',
     repositoryUrl: 'https://github.com/WallyWest74422/Dog-Breed-Info'
 };
